@@ -8,9 +8,10 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background:;
+  background: radial-gradient(#352e2e, #ecf3eb7a);
   position: relative;
   font-weight:400px;
+
 }
 
 ul li {
@@ -142,6 +143,9 @@ a#scrollUp i{
   margin-right: 0;
   padding-bottom: 20px;
   padding-top: 20px;
+  background-image: url("/assets/images/home/rajeevcynet.png");
+  background-position: center;
+  background-size: cover;
 }
 
 .header-middle .container .row .col-sm-4{
@@ -198,8 +202,8 @@ a#scrollUp i{
 
 
 .shop-menu ul li a {
-  background: #FFFFFF;
-  color: #696763;
+  background: #1d1a1a;
+  color: #ca8135;
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   font-weight: 300;
